@@ -139,7 +139,7 @@ By transforming raw startup data into **clear visual insights**, this project de
 ---
 
 #  Contact
-For any questions or suggestions, please contact bhushansalkar99@gmail.com
+For any questions or suggestions, please contact ranadigvijay413@gmail.com
 
 ---
 
